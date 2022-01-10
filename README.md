@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavkuma779
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning scala and java
+- 👀 I’m interested in Football
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me via email: vaibhav.kumar@knoldus.com
 
