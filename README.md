@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkumar779.vaibhavkumar779)
 <br />
 ---
-<h1 align="center">Hi Geeks<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="55px" width="55px">, I am Vaibhav Kumar</h1>
+<h1 align="center">Hi Geeks<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="15px" width="15px">, I am Vaibhav Kumar</h1>
 
 
 <img align="center" src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif" />
