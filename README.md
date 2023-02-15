@@ -23,7 +23,7 @@
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me via email: vaibhav.kumar@knoldus.com
+- 📫 reach me via email: vaibhav.kumar@nashtechglobal.com
 
 <!---
 vaibhavkumar779/vaibhavkumar779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
