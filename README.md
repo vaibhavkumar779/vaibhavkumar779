@@ -5,7 +5,7 @@
 <h1 align="center">Hi Contributors<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="15px" width="15px">, I am Vaibhav Kumar</h1>
 
 
-<img align="center"  src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif"  style="display: inline-block; margin: 0 auto; height: 350px; width: 1200px" />
+<img align="center"  src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif"  style="display: inline-block; margin: 0 auto; height: 450px; width: 1200px" />
 <br>
 <hr>
 
