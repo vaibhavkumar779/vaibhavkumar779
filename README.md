@@ -10,7 +10,8 @@
 <hr>
 
 ![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavkumar779&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&card_width=502)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&langs_count=10)](https://github.com/vaibhavkumar779/vaibhavkumar779)
 <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&langs_count=11)](https://github.com/vaibhavkumar779/github-readme-stats) -->
 
@@ -24,7 +25,7 @@
 - 💞️ I’m looking to collaborate on Python, Web work, DevOps, Education Content, Podcast, Networking
 - 📫 reach me via email: vaibhav.kumar@nashtechglobal.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavkumar779&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&card_width=502)](https://git.io/streak-stats)
+
 <!---
 vaibhavkumar779/vaibhavkumar779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
