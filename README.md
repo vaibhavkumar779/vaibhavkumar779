@@ -20,7 +20,7 @@
 - 👋 Hi, I’m @vaibhavkumar779
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python, Web work, DevOps, Education Content, Podcast, Networking
 - 📫 reach me via email: vaibhav.kumar@nashtechglobal.com
 
 <!---
