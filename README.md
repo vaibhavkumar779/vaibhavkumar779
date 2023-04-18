@@ -9,7 +9,7 @@
 <br>
 <hr>
 
-![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&theme=default&show_icons=true)
+![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&theme=default&show_icons=true&count_private=true&theme=tokyonight)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkumar779&theme=calm)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&langs_count=11)](https://github.com/vaibhavkumar779/github-readme-stats) -->
 
