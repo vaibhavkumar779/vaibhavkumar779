@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
-![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkumar779.vaibhavkumar779)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vaibhavkumar779.vaibhavkumar779&left_color=green&right_color=red)
+                
 <br />
 ---
 <h1 align="center">Hi Contributors<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="15px" width="15px">, I am Vaibhav Kumar</h1>
