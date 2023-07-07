@@ -11,8 +11,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavkumar779&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&card_width=502)](https://git.io/streak-stats)
 
 <hr>
-[![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&show_icons=true&count_private=true&theme=radical)](https://github.com/vaibhavkumar779/github-readme-stats)
-[![Top Langs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779)](https://github.com/vaibhavkumar779/vaibhavkumar779)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vaibhavkumar779/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight)](https://github.com/vaibhavkumar779/github-readme-stats)
 
 <!-- city_light -->
 ---
