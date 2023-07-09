@@ -38,6 +38,18 @@
 2. ❗ Opened issue [#1](https://github.com/vaibhavkumar779/portfolio/issues/1) in [vaibhavkumar779/portfolio](https://github.com/vaibhavkumar779/portfolio)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
+
+```python
+From: 08 July 2023 - To: 09 July 2023
+
+Total Time: 7 mins
+
+Python       6 mins          >>>>>>>>>>>>>>>>>>>>-----   78.26 %
+Markdown     1 min           >>>>>--------------------   20.77 %
+Git Config   0 secs          -------------------------   00.49 %
+Text         0 secs          -------------------------   00.48 %
+```
+
 <!--END_SECTION:waka-->
 <a href="https://github.com/vaibhavkumar779/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=portfolio" />
