@@ -11,12 +11,26 @@
 <br>
 <hr>
 
-![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&show_icons=true&count_private=true&theme=radical)
+![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&show_icons=true&&show=reviews,discussions_started,discussions_answered&count_private=true&theme=bear)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavkumar779&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&card_width=502)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight)](https://github.com/vaibhavkumar779/vaibhavkumar779)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight&langs_count=11&layout=compact)](https://github.com/vaibhavkumar779/vaibhavkumar779)
+[![Vaibhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavkumar779)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- city_light -->
 ---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar779" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkumar779&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumarr779&repo=portfolio" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=capstone997" />
+</a>
 
 
 - 👋 Hi, I’m @vaibhavkumar779
