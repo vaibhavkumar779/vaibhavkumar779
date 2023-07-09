@@ -1,6 +1,10 @@
 <!-- ### Hi there 👋 -->
-![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkumar779.vaibhavkumar779&left_color=green&right_color=red)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vaibhavkumar779)](https://github.com/vaibhavkumar779)
 <br />
+---
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+
 ---
 ![Visitor Count](https://profile-counter.glitch.me/vaibhavkumar779/count.svg)
 
@@ -18,15 +22,9 @@
 
 <!-- city_light -->
 ---
-<a href="https://github.com/vaibhavkumar779/portfolio">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar779" />
-</a>
-<a href="https://github.com/vaibhavkumar779/Capstone977">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkumar779&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <a href="https://github.com/vaibhavkumar779/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumarr779&repo=portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=portfolio" />
 </a>
 <a href="https://github.com/vaibhavkumar779/Capstone977">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=Capstone977" />
