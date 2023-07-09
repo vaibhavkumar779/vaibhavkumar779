@@ -34,6 +34,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/vaibhavkumar779/portfolio/issues/1) in [vaibhavkumar779/portfolio](https://github.com/vaibhavkumar779/portfolio)
+2. ❗ Opened issue [#1](https://github.com/vaibhavkumar779/portfolio/issues/1) in [vaibhavkumar779/portfolio](https://github.com/vaibhavkumar779/portfolio)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
