@@ -7,9 +7,19 @@
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/vaibhavkumar779/count.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
 <h1 align="center">Hi Contributors<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="15px" width="15px">, I am Vaibhav Kumar</h1>
-
+<a href="https://www.linkedin.com/in/vaibhavkumar779/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vaibhav.kr.779@gmail.com">
+  <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://medium.com/@vaibhavkumar779">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
 
 <img align="center"  src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif"  style="display: inline-block; margin: 0 auto; height: 400px; width: 1200px" />
 <br>
@@ -21,6 +31,10 @@
 
 <!-- city_light -->
 ---
+### :zap: Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <a href="https://github.com/vaibhavkumar779/portfolio">
