@@ -17,12 +17,12 @@
 
 ![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavkumar779&show_icons=true&&show=reviews,discussions_started,discussions_answered&count_private=true&theme=bear)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaibhavkumar779&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&card_width=502)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight&langs_count=11&layout=compact)](https://github.com/vaibhavkumar779/vaibhavkumar779)
-[![Vaibhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavkumar779)](https://github.com/vaibhavkumar779)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkumar779&theme=tokyonight&langs_count=20&layout=compact)](https://github.com/vaibhavkumar779/vaibhavkumar779)
 
 <!-- city_light -->
 ---
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <a href="https://github.com/vaibhavkumar779/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=portfolio" />
 </a>
