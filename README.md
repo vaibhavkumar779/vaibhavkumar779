@@ -41,14 +41,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 July 2023 - To: 09 July 2023
+From: 08 July 2023 - To: 10 July 2023
 
-Total Time: 7 mins
+Total Time: 1 hr 14 mins
 
-Python       6 mins          >>>>>>>>>>>>>>>>>>>>-----   78.26 %
-Markdown     1 min           >>>>>--------------------   20.77 %
-Git Config   0 secs          -------------------------   00.49 %
-Text         0 secs          -------------------------   00.48 %
+YAML         31 mins         >>>>>>>>>>---------------   41.79 %
+Markdown     16 mins         >>>>>>-------------------   22.54 %
+JavaScript   12 mins         >>>>---------------------   16.36 %
+JSON         7 mins          >>>----------------------   10.66 %
+Python       6 mins          >>-----------------------   08.16 %
+Other        0 secs          -------------------------   00.39 %
+Git Config   0 secs          -------------------------   00.05 %
+Text         0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
