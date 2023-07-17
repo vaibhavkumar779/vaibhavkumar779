@@ -1,14 +1,10 @@
 <!-- ### Hi there 👋 -->
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vaibhavkumar779)](https://github.com/vaibhavkumar779)
-<br />
----
 [![wakatime](https://wakatime.com/badge/user/c94cf5fc-2027-47f5-ba61-e8ff7ca68c73.svg)](https://wakatime.com/@c94cf5fc-2027-47f5-ba61-e8ff7ca68c73)
-<!--
 [![github](https://img.shields.io/github/followers/vaibhavkumar779?logo=github&style=plastic)](https://github.com/vaibhavkumar779?tab=followers)
--->
 ---
-![Visitor Count](https://profile-counter.glitch.me/vaibhavkumar779/count.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+![ProfileBadge](https://komarev.com/ghpvc/?username=vaibhavkumar779&color=red&style=plastic&label=VIEW+COUNT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1d2951&multiline=true&lines=Namaste!+to+all+contributors;Lets+build+a+better+future+with+some+fun!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
 <h1 align="center">Hi Contributors<img src="https://github.com/vaibhavkumar779/vaibhavkumar779/blob/main/Wave.gif" height="15px" width="15px">, I am Vaibhav Kumar</h1>
@@ -65,7 +61,7 @@ Text         0 secs          -------------------------   00.01 %
 </a>
 
 
-- 👋 Hi, I’m @vaibhavkumar779
+- 👋 Hi, I’m [@vaibhavkumar779](https://github.com/vaibhavkumar779)
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Python, Web work, DevOps, Education Content, Podcast, Networking
