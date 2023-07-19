@@ -37,22 +37,14 @@
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 
-```python
-From: 08 July 2023 - To: 18 July 2023
+```txt
+Total Time: 6 hrs 13 mins
 
-Total Time: 10 hrs
-
-YAML         5 hrs 8 mins    >>>>>>>>>>>>>------------   51.38 %
-Markdown     2 hrs 58 mins   >>>>>>>------------------   29.68 %
-Properties   1 hr 6 mins     >>>----------------------   11.11 %
-JSON         24 mins         >------------------------   04.01 %
-JavaScript   13 mins         >------------------------   02.32 %
-Python       6 mins          -------------------------   01.01 %
-Other        2 mins          -------------------------   00.44 %
-XML          0 secs          -------------------------   00.04 %
-HTML         0 secs          -------------------------   00.02 %
-Git Config   0 secs          -------------------------   00.01 %
-Text         0 secs          -------------------------   00.01 %
+Markdown     2 hrs 33 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.86 %
+YAML         2 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.36 %
+Properties   1 hr 6 mins     ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.74 %
+JSON         16 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
+Other        2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.63 %
 ```
 
 <!--END_SECTION:waka-->
