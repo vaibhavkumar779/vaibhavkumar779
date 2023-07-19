@@ -2,7 +2,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vaibhavkumar779)](https://github.com/vaibhavkumar779)
 [![wakatime](https://wakatime.com/badge/user/c94cf5fc-2027-47f5-ba61-e8ff7ca68c73.svg)](https://wakatime.com/@c94cf5fc-2027-47f5-ba61-e8ff7ca68c73)
 [![github](https://img.shields.io/github/followers/vaibhavkumar779?logo=github&style=plastic)](https://github.com/vaibhavkumar779?tab=followers)
-![Waka Readme](https://github.com/vaibhavkumar779/vaibhavkumar779/workflows/Waka%20Readme/badge.svg)
+![Waka Readme](https://github.com/vaibhavkumar779/vaibhavkumar779/workflows/WakaReadme/badge.svg)
 ---
 ![ProfileBadge](https://komarev.com/ghpvc/?username=vaibhavkumar779&color=red&style=plastic&label=VIEW+COUNT)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=1d2951&multiline=true&lines=Namaste!+to+all+contributors;Lets+build+a+better+future+with+some+fun!)](https://github.com/DenverCoder1/readme-typing-svg)
