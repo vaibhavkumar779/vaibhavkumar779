@@ -48,8 +48,8 @@ JSON         1 hr 1 min      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-<a href="https://github.com/vaibhavkumar779/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=portfolio" />
+<a href="https://github.com/vaibhavkumar779/driving-license-info-scrappinng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=driving-license-info-scrappinng" />
 </a>
 <a href="https://github.com/vaibhavkumar779/Capstone977">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkumar779&repo=Capstone977" />
