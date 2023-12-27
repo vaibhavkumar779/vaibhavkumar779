@@ -18,6 +18,12 @@
 <a href="https://medium.com/@vaibhavkumar779">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
+<a href="https://www.youtube.com/channel/UCjClIyCW3IbYRM8q0Gpgsmg">
+  <img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23ff0000.svg?style=for-the-badge&logo=Youtube&logoColor=white"/>
+</a>
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjClIyCW3IbYRM8q0Gpgsmg)
+
 
 <img align="center"  src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif"  style="display: inline-block; margin: 0 auto; height: 400px; width: 1200px" />
 <br>
