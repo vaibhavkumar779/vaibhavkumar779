@@ -44,11 +44,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 mins
+Total Time: 0 secs
 
-YAML    7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.89 %
-Other   7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.58 %
-Text    0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
