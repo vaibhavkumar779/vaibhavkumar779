@@ -38,8 +38,8 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/vaibhavkumar779/portfolio/issues/1#issuecomment-1582621411) in [vaibhavkumar779/portfolio](https://github.com/vaibhavkumar779/portfolio)
-2. ❗ Opened issue [#1](https://github.com/vaibhavkumar779/portfolio/issues/1) in [vaibhavkumar779/portfolio](https://github.com/vaibhavkumar779/portfolio)
+1. ❌ Closed PR [#1](https://github.com/vaibhavkumar779/vaibhavkumar779/pull/1) in [vaibhavkumar779/vaibhavkumar779](https://github.com/vaibhavkumar779/vaibhavkumar779)
+2. 💪 Opened PR [#1](https://github.com/vaibhavkumar779/vaibhavkumar779/pull/1) in [vaibhavkumar779/vaibhavkumar779](https://github.com/vaibhavkumar779/vaibhavkumar779)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 
