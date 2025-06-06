@@ -38,7 +38,7 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/vaibhavkumar779/vaibhavkumar779/pull/1) in [vaibhavkumar779/vaibhavkumar779](https://github.com/vaibhavkumar779/vaibhavkumar779)
+1. 💪 Opened PR [#232](https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault/pull/232) in [Azure/terraform-azurerm-avm-res-keyvault-vault](https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault)
 2. 💪 Opened PR [#1](https://github.com/vaibhavkumar779/vaibhavkumar779/pull/1) in [vaibhavkumar779/vaibhavkumar779](https://github.com/vaibhavkumar779/vaibhavkumar779)
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
